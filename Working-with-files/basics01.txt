@@ -1,0 +1,10 @@
+// number of rows in 'my_passwd'
+$ wc -l my_passwd
+
+//number of charactes in 'my_passwd'
+$ wc -c my_passwd
+
+// last 4 symbols of the 13th row in 'my_passwd'
+
+$ head -n13 my_passwd|tail-n1| tail-c4
+
