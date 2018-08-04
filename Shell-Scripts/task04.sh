@@ -10,7 +10,7 @@ read string
 for i in $*
 do 
     count=$(grep "string" $i | wc -l)
-    echo "In file $i you have the string \" string \" $count times"
+    echo "In file $i you have the string \" $string \" $count times"
 done
 
 exit 0
