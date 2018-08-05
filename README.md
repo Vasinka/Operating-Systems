@@ -1,6 +1,6 @@
 # Operating-Systems
 OS-related taks
-(bash scripting, C)
+(shell scripts; C)
 
 Sources:
 
