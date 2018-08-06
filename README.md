@@ -4,6 +4,6 @@ OS-related taks
 
 Sources:
 
-•	http://www.theunixschool.com
-
+•	www.theunixschool.com
+•	www.tecmint.com
 •	OS Courses @FMI (2016; 2017; 2018)
