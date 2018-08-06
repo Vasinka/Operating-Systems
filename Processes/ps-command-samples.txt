@@ -1,0 +1,26 @@
+Display all processes 
+$ps
+
+Display all active processes
+$ps -A
+
+Display all processes in BSD format
+$ps au
+----------------------------------------------------------
+Display all processes owned by you
+
+Select a uses's process by real user ID
+
+Select a usesr's process by effective user ID
+
+-----------------------------------------------------------
+Display the processes with PID 1481
+$ps -fp 1481
+
+Display all processes with PID 1378 or 1412
+$ps -fp 1378,1412
+
+Display all processes with PPID 1436
+$ps -f --ppid 1436
+
+-----------------------------------------------------------
