@@ -10,4 +10,6 @@ Sources:
 
 • www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro
 
+• www.ryanstutorials.net/bash-scripting-tutorial/
+
 •	OS Courses @FMI (2016; 2017; 2018)
