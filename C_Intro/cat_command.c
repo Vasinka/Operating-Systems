@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
         if(argc == 1)
         {
             write(2, "err\n", 4);
-		        exit(-1);
+	    exit(-1);
         }
         
        char *buff[256];
